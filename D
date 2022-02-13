@@ -1,0 +1,7 @@
+https://mdm-na1.jamfcloud.com/mdm/device/wmtaqp/b8a37eb9-9ac3-4c76-899b-2e85cc4f6b6c
+Topic
+com.apple.mgmt.External.3fd1622c-0205-49a4-b266-5ab2c24aae28
+Use Development APNS
+No
+Check-in URL
+https://mdm-na1.jamfcloud.com/mdm/device/wmtaqp/b8a37eb9-9ac3-4c7b-899b-2e85cc4f6b6c/checkin
